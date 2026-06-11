@@ -23,9 +23,9 @@ export const navbar = () => {
   <div class="flex items-center gap-4">
 
     <!-- GitHub -->
-    <button class=" px-4 py-2 rounded-full bg-green-500/40 hover:bg-green-800 transition-all duration-300 active:scale-95 text-sm ">
+    <a href="https://github.com/sarvjeet-singh-dev/atmos-weather.git" class=" px-4 py-2 rounded-full bg-green-500/40 cursor-pointer hover:bg-green-800 transition-all duration-300 active:scale-95 text-sm ">
       GitHub
-    </button>
+    </a>
 
   </div>
   `

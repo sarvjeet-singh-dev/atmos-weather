@@ -21,16 +21,12 @@ export const hero = () => {
         State-driven weather dashboard with dynamic rendering, API integration, and responsive frontend architecture.
       </p>
 
-      <!-- Buttons -->
+      <!-- Button -->
       <div class="flex flex-wrap gap-5">
-
-        <button class=" px-6 py-3 rounded-full bg-green-500/40 hover:bg-green-800 transition-all duration-300 active:scale-95 ">
-          Search Weather
-        </button>
-
-        <button class=" px-6 py-3 rounded-full border border-zinc-700 hover:border-green-500/40 transition-all duration-300 active:scale-95 ">
+      
+        <a href="https://github.com/sarvjeet-singh-dev/atmos-weather.git" class="cursor-pointer px-6 py-3 rounded-full border border-zinc-700 hover:border-green-500/40 transition-all duration-300 active:scale-95 ">
           GitHub
-        </button>
+        </a>
 
       </div>
 
